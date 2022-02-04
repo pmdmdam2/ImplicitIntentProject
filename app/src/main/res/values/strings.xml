@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImplicitIntentProject</string>
+    <string name="permiso_agenda_denegado">Permiso de creación de eventos en el calendario denegado</string>
+    <string name="texto_compartir">Texto a compartir</string>
+    <string name="entrada_calendario">Prueba de entrada en el calendario</string>
+</resources>
